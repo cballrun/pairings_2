@@ -6,3 +6,5 @@ puts f1[0]
 v1 = ["Mexico", "Brazil", "UK", "France", "China"]
 
 v1.pop
+
+puts v1
